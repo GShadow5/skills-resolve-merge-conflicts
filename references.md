@@ -1,3 +1,4 @@
-Lorem ipsum etcetra :)
+# References
 
-We love merge conflicts!
+* octocat 1 😈
+* We love merge conflicts!
